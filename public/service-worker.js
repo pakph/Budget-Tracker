@@ -6,6 +6,7 @@ const FILES_TO_CACHE = [
     '/dist/bundle.js',
     '/dist/icon_192x192.png',
     '/dist/icon_512x512.png',
+    '/db.js'
   ];
   
   const STATIC_CACHE = "static-cache-v1";
