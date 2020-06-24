@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "webpack": "webpack",
-    "prestart": "npm run webpack"
+    "prestart": "npm run webpack",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
